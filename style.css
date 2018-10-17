@@ -1,0 +1,47 @@
+.header {
+  background-color: #606030;
+  height: 100px;
+  min-width: 99%;
+  border: 1px;
+  border-radius: 5px;
+}
+
+h1 {
+  font: normal 200%;
+  color: #000;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.menu {
+  background-color: #606030;
+  float: left;
+  width: 20%;
+  border: 1px;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.main {
+  background-color: #606030;
+  margin-left: 10px;
+  float: left;
+  width: 78%;
+  border: 1px;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.footer {
+  float: left;
+  min-width: 99%;
+  height: 20px;
+  padding: 5px;
+  margin-top: 10px;
+  text-align: center;
+  background-color: #606030;
+  border: 1px;
+  border-radius: 5px;
+}
